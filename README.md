@@ -1,2 +1,2 @@
-# music-player
-music player
+# quiz game
+quiz game
